@@ -10882,6 +10882,10 @@ a.text-dark:focus {
   }
 }
 
+section {
+  width: 100%;
+}
+
 .app-form > div {
   margin-top: 1em;
 }
